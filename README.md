@@ -12,7 +12,7 @@
 
 Hi, I'm jooaco, a 15 years old, self-taught developer from Uruguay
 <br>
-I learned Unity basics in <a href="https://a.edu.uy"> A+ </a>
+I learned Unity basics, Maya and Mudbox in <a href="https://a.edu.uy"> A+ </a>
 
 **Languages and Tools:**  
 
